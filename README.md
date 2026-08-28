@@ -1,3 +1,5 @@
+En
+
 # Virtual System
 
 A simulated Unix-like file system and shell, written in C++ from the ground up — including its own virtual disk with sector-based storage, a tree-structured directory hierarchy, and an interactive command interpreter. No calls to the host OS's file system; every operation (allocation, deletion, defragmentation) is implemented manually against the simulated disk.
@@ -82,9 +84,11 @@ defrag: completed
 Building Virtual System meant working through problems that real file systems actually deal with: managing storage as fixed-size blocks instead of arbitrary strings, tracking and reclaiming free space, resolving nested paths without any help from the OS, and repacking fragmented storage on demand. It's a much closer look at how a file system works than just calling standard library functions.
 
 ## License
-
 ***************************************************************
----
+-------------------------------------------------------
+-------------------------------------------------------
+
+فارسی:
 
 # سیستم مجازی (Virtual System)
 
@@ -149,5 +153,4 @@ virtual-system
 ساخت این پروژه یعنی درگیر شدن با مسائلی که فایل‌سیستم‌های واقعی هم باهاشون سروکار دارن: مدیریت فضای ذخیره‌سازی به‌صورت بلاک‌های با اندازه‌ی ثابت به‌جای رشته‌های دلخواه، ردیابی و بازپس‌گیری فضای آزاد، resolve کردن مسیرهای تودرتو بدون کمک سیستم‌عامل، و بازچینی فضای پراکنده در صورت نیاز. این خیلی نزدیک‌تر به فهمیدن نحوه‌ی کارکرد یک فایل‌سیستم واقعیه تا صرفاً صدا زدن توابع کتابخانه‌ی استاندارد.
 
 ## لایسنس
-
 ***************************************************************
