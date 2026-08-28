@@ -83,8 +83,7 @@ Building Virtual System meant working through problems that real file systems ac
 
 ## License
 
-[MISSING INFORMATION: اگه لایسنس خاصی نمی‌خوای انتخاب کنی، MIT ساده‌ترین و رایج‌ترین گزینه برای پروژه‌های شخصیه.]
-
+***************************************************************
 ---
 
 # سیستم مجازی (Virtual System)
@@ -151,4 +150,4 @@ g++ -std=c++11 main.cpp -o virtual-system
 
 ## لایسنس
 
-[MISSING INFORMATION: اگه لایسنس خاصی نمی‌خوای انتخاب کنی، MIT ساده‌ترین و رایج‌ترین گزینه برای پروژه‌های شخصیه.]
+***************************************************************
