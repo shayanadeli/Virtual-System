@@ -53,7 +53,7 @@ g++ -std=c++11 main.cpp -o virtual-system
 ### Run
 
 ```bash
-./virtual-system
+virtual-system
 ```
 
 Example session:
@@ -141,7 +141,7 @@ g++ -std=c++11 main.cpp -o virtual-system
 ### اجرا
 
 ```bash
-./virtual-system
+virtual-system
 ```
 
 ## چیزی که یاد گرفتم
